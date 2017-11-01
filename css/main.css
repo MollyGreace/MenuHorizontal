@@ -1,0 +1,34 @@
+/*Formato de Body*/
+body {
+  font-family: sans-serif;
+}
+
+/*Formato a la lista*/
+ul {
+  background-color: #2e2e2a;
+  list-style: none;
+  line-height: 40px;  
+  margin: 0;
+  overflow: auto;
+  padding: 0;
+}
+
+/*Formato de ítems de la lista*/
+li {
+  float: left;
+  text-align: center;
+  width: 100px;    
+}
+
+/*Formato de los a*/
+a {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+}
+
+/* 'Hover' de cada 'a' */
+a:hover {
+  background: #f9a91a;
+  color: #000;
+}
