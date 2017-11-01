@@ -1,4 +1,4 @@
-# Menú Vertical
+# Menú Horizontal
 
 Se pide crear un barra denavegación que contenga un Menú Horizontal.
 
